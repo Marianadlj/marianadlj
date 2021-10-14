@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marianadlj&layout=compact&langs_count=7&theme=gruvbox"/>
  </div>
   
-#### Bsides programing:   
+#### Bsides coding:   
 #### I like books, games, traveling and cooking listening to podcasts.
   
   <img align="right" alt="hobbies" src="https://cdn.discordapp.com/attachments/801795547790180373/898079096758755338/postagem.jpg">
