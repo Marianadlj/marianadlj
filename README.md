@@ -9,7 +9,7 @@
 #### I'm studying:
   Java, Python, HTML and CSS
 
-#### When I am not coding, I enjoy travel, a good book, games (good ones and bad ones) and cooking listening to podcasts
+#### I enjoy to travel, a good book, games (good ones and bad ones) and cooking listening to podcasts
   
   <img align="right" alt="hobbies" src="https://cdn.discordapp.com/attachments/801795547790180373/898079096758755338/postagem.jpg">
   
