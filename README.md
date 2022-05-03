@@ -1,9 +1,9 @@
-## Hi, Mariana here 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&duration=4800&color=C70CA3&lines=Hi+everyone!++%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F;I'm+Mariana+and+this+is+my+GitHub+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Feel+free+to+contact+me+anytime+%F0%9F%93%B2)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Marianadlj">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marianadlj&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marianadlj&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marianadlj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marianadlj&layout=compact&langs_count=7&theme=dracula"/>
  </div>
   
 #### Currently studying Computer Science. 🖥️
