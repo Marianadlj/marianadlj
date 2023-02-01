@@ -9,9 +9,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aboreto&pause=97&color=BCA6C0&width=435&lines=Here+I+keep+my+personal+projects+;and+document+my+learning+process%2C;+Feel+free+to+contribute+%F0%9F%9B%A0" alt="Typing SVG" /></a>
   
 [![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marianadlj&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marianadlj&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Marianadlj&theme=onedark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marianadlj&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <!-- TECNOLOGIAS -->
