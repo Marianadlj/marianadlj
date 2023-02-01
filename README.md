@@ -1,4 +1,12 @@
 ## Hi, I'm Mariana 👋
+<div align="left">
+  <a href="https://www.linkedin.com/in/marianalimajanu%C3%A1rio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href ="mailto:marianalimajanuario@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@marianalimajanuario" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://stackoverflow.com/users/20125584/mariana-januario" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
+  <a href="https://dev.to/marianadlj" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+</div>
+
 #### A 21 years old, computer science student, intern at GFT-BR. Interested in web development, statistics, security, cloud computing and neuroscience.
 
 ###### I have worked with: Java, Spring, Angular, TypeScript, SQL. Also, during my first work experience I also had contact with agile methodologies, TDD, JWT, Refresh Token, Clean Code, Mongo DB, REST APIs and Microservices
@@ -52,13 +60,3 @@
 </div>
 
 <div>
-  
-## Connect with me 
-  <br>
-<p>
-<a href="https://www.linkedin.com/in/marianalimajanu%C3%A1rio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marianajanuario" height="30" width="40" /></a>
-<a href="https://dev.to/marianadlj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marianajanuario" height="30" width="40" /></a>
-<a href="mailto:marianalimajanuario@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="marianajanuario" height="35" width="35" /></a>
-<a href="https://api.whatsapp.com/send?phone=+5584999563459&text=Oi! Podemos conversar?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="marianajanuario" height="30" width="40" /></a>
-</p></br>
-</div>
