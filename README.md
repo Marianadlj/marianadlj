@@ -5,11 +5,7 @@
 
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aboreto&pause=97&color=BCA6C0&width=435&lines=Here+I+keep+my+personal+projects+;and+document+my+learning+process%2C;+Feel+free+to+contribute+%F0%9F%9B%A0" alt="Typing SVG" /></a>
-<div>
-  <a href="https://github.com/Marianadlj">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marianadlj&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marianadlj&layout=compact&langs_count=7&theme=onedark"/>
- </div>
+
 <h3> Languages, Frameworks & Tools ⚙️</h3>
 <div style="display: inline_block">
   <br>
