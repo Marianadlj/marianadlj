@@ -1,36 +1,62 @@
-### Hi, I'm Mariana 💻
+## Hi, I'm Mariana 👋
 #### A 21 years old, computer science student, intern at GFT-BR. Interested in web development, statistics, security, cloud computing and neuroscience.
 
 ###### I have worked with: Java, Spring, Angular, TypeScript, SQL. Also, during my first work experience I also had contact with agile methodologies, TDD, JWT, Refresh Token, Clean Code, Mongo DB, REST APIs and Microservices
 
-<hr>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aboreto&pause=97&color=BCA6C0&width=435&lines=Here+I+keep+my+personal+projects+;and+document+my+learning+process%2C;+Feel+free+to+contribute+%F0%9F%9B%A0" alt="Typing SVG" /></a>
+<!-- GITHUB STATS -->
+<div align="center"> 
 
-[![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marianadlj&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marianadlj&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-<h3> Languages, Frameworks & Tools ⚙️</h3>
-<div style="display: inline_block">
-  <br>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" alt="R" width="40" height="40"/> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="70"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aboreto&pause=97&color=BCA6C0&width=435&lines=Here+I+keep+my+personal+projects+;and+document+my+learning+process%2C;+Feel+free+to+contribute+%F0%9F%9B%A0" alt="Typing SVG" /></a>
   
-<h3> Connect with me 📲</h3>
+[![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marianadlj&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Marianadlj&theme=onedark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marianadlj&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<!-- TECNOLOGIAS -->
+## Technologies 
+#### :hammer_and_wrench: Tools and environments
+
+<div style="display: inline-block; height: 27px; overflow: hidden">
+  <img align="center" alt="Git" title="Git" height="27" width="27" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="GitLab" title="GitLab" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
+  <img align="center" alt="npm" title="npm" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Docker" title="Docker" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Postman" title="Postman" height="27" width="27" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+  <img align="center" alt="Insomnia" title="Insomnia" height="27" width="27" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/insomnia.svg">
+</div>
+
+#### :computer: Front-End Development
+<div style="display: inline-block; height: 27px; overflow: hidden">
+  
+  <img align="center" alt="Angular" title="Angular" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="React" title="React" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="TypeScript" title="TypeScript" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" title="HTML" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" title="CSS" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" title="JavaScript" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+#### 🖥️ Back-End Development
+<div style:"display: inline-block; height: 27px; overflow: hidden">
+  <img align="center" alt="Python" title="Python" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Django" title="Django" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg">
+  <img align="center" alt="Node.js" title="Node.js" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Java" title="Java" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Spring Boot" title="Spring Boot" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="MySQL" title="MySQL" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" title="PostgreSQL" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="MongoDB" title="MongoDB" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+</div>
+
 <div>
+  
+## Connect with me 
   <br>
 <p>
 <a href="https://www.linkedin.com/in/marianalimajanu%C3%A1rio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marianajanuario" height="30" width="40" /></a>
 <a href="https://dev.to/marianadlj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marianajanuario" height="30" width="40" /></a>
 <a href="mailto:marianalimajanuario@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="marianajanuario" height="35" width="35" /></a>
 <a href="https://api.whatsapp.com/send?phone=+5584999563459&text=Oi! Podemos conversar?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="marianajanuario" height="30" width="40" /></a>
-</p><br>
+</p></br>
 </div>
