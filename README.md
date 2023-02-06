@@ -11,7 +11,7 @@
 
 ###### I have worked with: Java, Spring, Angular, TypeScript, SQL. Also, during my first work experience I also had contact with agile methodologies, TDD, JWT, Refresh Token, Clean Code, Mongo DB, REST APIs and Microservices
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS 
 <div align="center"> 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aboreto&pause=97&color=BCA6C0&width=435&lines=Here+I+keep+my+personal+projects+;and+document+my+learning+process%2C;+Feel+free+to+contribute+%F0%9F%9B%A0" alt="Typing SVG" /></a>
@@ -23,6 +23,7 @@
   
 
 </div>
+-->
 
 <!-- TECNOLOGIAS -->
 ## Technologies 
