@@ -7,7 +7,7 @@
   <a href="https://dev.to/marianadlj" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
 </div>
 
-#### A 21 years old, computer science student, intern at GFT-BR. Interested in web development, statistics, security, cloud computing and neuroscience.
+#### A 22 years old, computer science student, intern at GFT-BR. Interested in web development, statistics, security, cloud computing and neuroscience.
 
 ###### I have worked with: Java, Spring, Angular, TypeScript, SQL. Also, during my first work experience I also had contact with agile methodologies, TDD, JWT, Refresh Token, Clean Code, Mongo DB, REST APIs and Microservices
 
