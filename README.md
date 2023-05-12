@@ -9,7 +9,7 @@
 
 #### A 22 years old, computer science student, intern at GFT-BR. Interested in web development, statistics, security, cloud computing and neuroscience.
 
-###### I have worked with: Java, Spring, Angular, TypeScript, SQL. Also, during my first work experience I also had contact with agile methodologies, TDD, JWT, Refresh Token, Clean Code, Mongo DB, REST APIs and Microservices
+###### I have worked with: Java, Spring, Angular, TypeScript, SQL. Also, during my first work experience I also had contact with agile methodologies, TDD, JWT, Refresh Token, Clean Code, Mongo DB, REST APIs, Microservices, Cloud and IBM Broker (IIB).
 
 <!-- GITHUB STATS -->
 <div> 
